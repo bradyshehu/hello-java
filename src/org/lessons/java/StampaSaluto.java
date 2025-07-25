@@ -1,6 +1,6 @@
 package org.lessons.java;
 
-public class SalutoClasse {
+public class StampaSaluto {
  public static void main(String[] args) {
     System.out.println("Ciao specializzazione Java!");
  }
